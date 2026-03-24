@@ -14,14 +14,21 @@ Description: This is a workflow pipeline I created for implementing IRS Written 
 NOTE: This is a snippet of my process, it will not include all of my deliverable templates and guides I use to create the final products for clients.
 
 **The Problem**
--Many small firms lack real security programs and may lack comprehensive understanding of what is needed for compliance and adequate data security practices.
--FTC or IRS resources, guidelines and templates do not show the full picture of how to develop and implement a security plan. 
--More of the finacial service industry is becoming a technical field with many non-technical people being forced into more and more technical processes, having a strong bridge for these things is necessary to mitigate informaiton security risks.
--The cost of professional implementation and guidance can be very expensive, especially with some of the bigger coorporate consulting firms.
+
+- Many small firms lack real security programs and may lack comprehensive understanding of what is needed for compliance and adequate data security practices.
+
+- FTC or IRS resources, guidelines and templates do not show the full picture of how to develop and implement a security plan. 
+
+- More of the finacial service industry is becoming a technical field with many non-technical people being forced into more and more technical processes, having a strong bridge for these things is necessary to mitigate informaiton security risks.
+
+- The cost of professional implementation and guidance can be very expensive, especially with some of the bigger coorporate consulting firms.
 
 **The Solution - My Pipeline**
--The problems this project aims to solve is the systematic approach to developing a compliant IRS WISP that is custom tailored for smaller accounting and finacial firms. 
--I have developed this workflow pipeline after hdeveloping small financial/tax firms WISP and ongoing consulting to align my clients practices with the relevant regulatory standards. 
+
+- The problems this project aims to solve is the systematic approach to developing a compliant IRS WISP that is custom tailored for smaller accounting and finacial firms. 
+
+- I have developed this workflow pipeline after hdeveloping small financial/tax firms WISP and ongoing consulting to align my clients practices with the relevant regulatory standards. 
+
 The Pipeline:
 1. Intake and Intial Consultation - Establish organization's current security posture
 2. Security Audit - Audit current organizational practices to establish risks and security gaps
