@@ -27,7 +27,7 @@ The focus of this section of the workflow pipeline is to translate the intake da
 - Physical Safeguards
 - Incident Response Plan
 - Ongoing Monitoring & Review
-- Additional Attachements (example: Record Retention Policy, Employee/Contractor Acknowledgement of Understanding, etc.)
+- Appendices (Additional attached documents for various forms, polices, etc.)
 Note: This is the basic template for my workflow but does not exhaust the overall scope every WISP will cover, each WISP is tailored custom for the unique client, business operations, and overall organization structure.
 
 
