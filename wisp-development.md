@@ -1,4 +1,4 @@
-**Security Audit & WISP Development**
+**WISP Development**
 
 **Objective**
 The focus of this section of the workflow pipeline is to translate the intake data from the questionnaire and intake consultation into a custom tailored IRS WISP.
