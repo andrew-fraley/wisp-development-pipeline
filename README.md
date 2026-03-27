@@ -19,7 +19,7 @@ NOTE: This is a snippet of my process, it will not include all of my deliverable
 
 - FTC or IRS resources, guidelines and templates do not show the full picture of how to develop and implement a security plan. 
 
-- Many finacial service industries are becoming a technical field with many non-technical people being forced into more and more technical processes, having a strong bridge for these things is necessary to mitigate informaiton security risks.
+- Many finacial service industries are becoming a technological field with many non-technilogical people being forced into more and more technology based processes, having a strong bridge for these things is necessary to mitigate informaiton security risks.
 
 - The cost of professional implementation and guidance can be very expensive, especially with some of the bigger coorporate consulting firms.
 
