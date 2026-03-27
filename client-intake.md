@@ -24,4 +24,5 @@ NOTE: This is a basic overview of my client intake questionnaire used to intake 
 - Details on how the contractor and client will conduct collaboration on the project.  
 
 **Any additional information required for the project.**
+
 Note: This questionnaire is accompanied by a client intake consultatoin for the information security consultant to get a full picture of the client's organization and all relevant details to conduct all security assessments/audits pertaininng to the requested services of the proejct.
