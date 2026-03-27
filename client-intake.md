@@ -1,6 +1,7 @@
 **Client Onboarding Questionnaire**
 
 NOTE: This is a basic overview of my client intake questionnaire used to intake a client and get an in-depth understanding of their current security posture, business operaitons, and data handling practices.
+
 **Sections:**
 
 **1. Client Bussiness Overview**
