@@ -8,9 +8,9 @@ The second thing the implementation step accomplishes is the actual Implementati
 
 **Consulation Process**
 
-1. Opening: 
+**1. Opening:** 
   - This reiterates the scope of the WISP project with the client.
 
-2. WISP Walkthrough: 
+**2. WISP Walkthrough:** 
   - This goes through the actual draft of the WISP document with the client. 
   - This may lead to small changes to the document if necessary, but the WISP at this step should be in its deliverable state. (The consultant should already reviewed and edited the document based on the project scope, client intake information, and any other relevant areas relating to the WISP docuemnt).
