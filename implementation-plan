@@ -1,1 +1,15 @@
-Implementation
+**Implementation Guide**
+
+**Overview**
+
+This is a multi-function step in the pipeline. It serves as the frame for theimplementation consultation session that the information security professional will lead the client through the whats, hows, and whys of implementing the IRS WISP, along with any security controls necessary to align with the client's new information security plan. 
+
+The second thing the implementation step accomplishes is the actual Implementation Strategy Guide delivered to the client. I have two templates that are used in this step, I have an overall consulation meeting guide for the consultation session with the client, this simply acts as a structure for the consultant to streamline the actual session and cover all relevant topics in guiding the client through their own implementation guide document. And the second template is the client's deliverable Immplementation Strategy Guide document.
+
+**Consulation Process**
+
+1. Opening: 
+  - This reiterates the scope of the WISP project with the client.
+2. WISP Walkthrough: 
+  - This goes through the actual draft of the WISP document with the client. 
+  - This may lead to small changes to the document if necessary, but the WISP at this step should be in its deliverable state. (The consultant should already reviewed and edited the document based on the project scope, client intake information, and any other relevant areas relating to the WISP docuemnt).
